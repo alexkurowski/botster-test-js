@@ -1,0 +1,7 @@
+{
+  "name": "seobots-sandbox-test",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
